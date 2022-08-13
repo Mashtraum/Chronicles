@@ -6,5 +6,6 @@ null,
 {"id":4,"expanded":true,"name":"Западные коридоры","order":4,"parentId":1,"scrollX":1965.6,"scrollY":1106.3999999999999},
 {"id":5,"expanded":true,"name":"Рольден","order":1,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":6,"expanded":true,"name":"Дорога к городу","order":7,"parentId":5,"scrollX":1216.5,"scrollY":748.5},
-{"id":7,"expanded":false,"name":"Рольден. Город близ поместья.","order":6,"parentId":5,"scrollX":1205.3333333333333,"scrollY":796}
+{"id":7,"expanded":false,"name":"Рольден. Город близ поместья.","order":6,"parentId":5,"scrollX":1205.3333333333333,"scrollY":796},
+{"id":8,"expanded":true,"name":"СУПЕР МЕГА ФЭНТЕЗИ","order":8,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1909.3333333333333}
 ]
